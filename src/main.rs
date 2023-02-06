@@ -61,7 +61,6 @@ fn main() {
     brute_force(256);
     brute_force(512);
     brute_force(1024);
-    brute_force(1024);
     brute_force(2048);
     brute_force(4096);
 }
